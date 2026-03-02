@@ -2,4 +2,4 @@ The curated T2DM metabolic model is provided in Systems Biology Markup Language 
 The second line continues the same paragraph. You don't need any special syntax here.
 
 This blank line above is crucial. It tells GitHub to start a new paragraph.
-This line starts the second paragraph.
+The SBML file conforms to standard SBML specifications and can be imported into commonly used systems biology software for inspection, modification, or extension.
